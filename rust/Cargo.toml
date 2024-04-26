@@ -1,0 +1,14 @@
+[[bin]]
+name = 'encode-and-decode-strings'
+path = 'src/0271.encode-and-decode-strings/solution.rs'
+
+[dependencies]
+anyhow = '1.0.79'
+leetgo-rs = '0.2.1'
+serde = '1.0.196'
+serde_json = '1.0.113'
+
+[package]
+edition = '2021'
+name = 'leetcode-solutions'
+version = '0.1.0'
